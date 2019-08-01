@@ -1,0 +1,13 @@
+{
+  "name": "gpst-js-basic-collection-practice",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node run-tests.js"
+  },
+  "devDependencies": {
+    "jasmine": "^2.8.0",
+    "jasmine-spec-reporter": "^4.2.1"
+  }
+}
